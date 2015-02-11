@@ -5,5 +5,5 @@ Excute it with
 
 ```
 $ go build
-$ ./hiromigo-in-golang`  
+$ ./hiromigo-in-golang  
 ```
